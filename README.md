@@ -1,8 +1,5 @@
 # **WHAT I LEARNED IN  WEEK 3** 
 
-## `VARIABLE TESTING`
-
-___
 
 ## `MORE HUMAN RESOURCES`
 
