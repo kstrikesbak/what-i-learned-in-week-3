@@ -47,7 +47,11 @@ ___
 
 ## `RETURN VALUES`
 
-Understanding the parameters that we declare within our function give us the input and the **return** value provides us with the output. 
+Understanding the parameters that we declare within our function give us the input and the **return** value provides us with the output. When the return statement is reached the function will stop executing. 
+
+## `MAKING BASIC APPS`
+
+
 
 
 
