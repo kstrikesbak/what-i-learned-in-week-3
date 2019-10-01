@@ -6,6 +6,8 @@ ___
 
 ## `MORE HUMAN RESOURCES`
 
+The frustration of Human Resources continued. Definetly struggled with certain p
+
 ___
 
 ## `RETURN OF THE STRING!`
@@ -16,7 +18,19 @@ Top quality activity which gave me a banging headache afterwards. An activity to
     return firstCharacter(str) + '.' + str[str.indexOf(' ')+1] + '.';
     }
 
-Colin showed us there were multiple ways of doing the same thing 
+Colin showed us there were multiple ways of doing the same thing. This consolidated my understanding of certain concepts. 
+
+    function yeller(str) {
+    const capitalized = capitalize(str);
+    const first = exclaim(capitalized);
+    const second = exclaim(first);
+    const third = exclaim(second);
+    return third;
+    }
+
+    function yeller(str) {
+        return capitalize(exclaim(exclaim(exclaim(str))));
+    }
 
 ___
 
