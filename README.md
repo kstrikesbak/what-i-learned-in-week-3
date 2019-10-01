@@ -6,7 +6,9 @@ ___
 
 ## `MORE HUMAN RESOURCES`
 
-The frustration of Human Resources continued. Definetly struggled with certain p
+The frustration of Human Resources continued. Most definitely struggled with certain problems but brain is starting to get adjusted to a new way of thinking (I hope). 
+
+    I feel proud as I completed the Countdown problem without any help!
 
 ___
 
@@ -36,11 +38,19 @@ ___
 
 ## `FUNCTIONS WITH PARAMETERS`
 
+    let greeting = 'HEY';
+
+    function yellAt(str) {
+    greeting = greeting + ',' + ' ' + str + '!';
+    }
+
+Getting my head round using a previous variable declared and applying it within a function like above. It's smart to use variables previously declared as it gives us more flexibility to make changes. 
+
 ___
 
 ## `RETURN VALUES`
 
-
+Understanding the parameters that we declare within our function give us the input and the **return** value provides us with the output. 
 
 
 
