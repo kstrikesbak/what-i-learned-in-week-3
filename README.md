@@ -51,7 +51,29 @@ Understanding the parameters that we declare within our function give us the inp
 
 ## `MAKING BASIC APPS`
 
+I really enjoyed making the celsius to fahrenheit (and vice versa) converted through the terminal. Very excited to learn more about this kind of thing! 
 
+I applied the same method and make my own kg to lbs converted (and vice versa).
+
+    function toKg (pounds) {
+        const kg = 0.453592 * pounds;
+        console.log(kg);
+    }
+
+    const userInput = process.argv[2];
+
+    toKg(userInput);
+
+    function toPounds(kg) {
+        const pounds = 2.20462 * kg
+        console.log(pounds);
+    }
+
+    const userInput = process.argv[2];
+
+    toPounds(userInput);
+
+It was a great feeling witnessing the userInput work in the terminal and it being functional. 
 
 
 
